@@ -57,7 +57,7 @@ TRANSLATE_MODEL = "facebook/nllb-200-distilled-600M"
 TRANSLATE_BATCH = 16
 CHECKPOINT_EVERY = 2000   # кандидатов между записями parquet
 
-HEADERS = {"User-Agent": "TVSeriesKnowledgeGraph/1.0 (graph-series_ETL; contact: github.com/katzer-lab)"}
+HEADERS = {"User-Agent": "TVSeriesKnowledgeGraph/1.0 (graph-series_ETL; contact: github.com/GKatzer)"}
 
 SERIES_PATH = Path("data/raw/tmdb_series.parquet")
 
