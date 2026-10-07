@@ -1,0 +1,11 @@
+pandas==2.2.2
+pyarrow==16.1.0
+requests==2.32.3
+aiohttp
+sentence-transformers
+transformers
+sentencepiece
+neo4j
+qdrant-client==1.9.2
+numpy
+python-dotenv

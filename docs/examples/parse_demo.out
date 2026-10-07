@@ -1,0 +1,94 @@
+{
+  "tmdb_id": 424242,
+  "name": "Example Show",
+  "original_name": "Exemple",
+  "imdb_id": "tt0000000",
+  "wikidata_id": "Q0",
+  "tvdb_id": 1,
+  "start_year": 2019,
+  "end_year": 2021,
+  "status": "Ended",
+  "type": "Scripted",
+  "in_production": false,
+  "original_language": "fr",
+  "season_count": 2,
+  "episode_count": 16,
+  "episode_runtime": 45,
+  "popularity": 12.5,
+  "vote_average": 7.8,
+  "vote_count": 120,
+  "us_content_rating": "TV-14",
+  "overview": "A short invented overview.",
+  "overview_source": "tmdb",
+  "tagline": "",
+  "homepage": "",
+  "poster_path": "/example.jpg"
+}
+{
+  "genres": [
+    {
+      "series_id": 424242,
+      "genre_id": 18,
+      "genre_name": "Drama"
+    }
+  ],
+  "keywords": [
+    {
+      "series_id": 424242,
+      "keyword_id": 7,
+      "keyword_name": "invented"
+    }
+  ],
+  "networks": [
+    {
+      "series_id": 424242,
+      "network_id": 49,
+      "network_name": "Example TV",
+      "country": "FR"
+    }
+  ],
+  "countries": [
+    {
+      "series_id": 424242,
+      "code": "FR"
+    },
+    {
+      "series_id": 424242,
+      "code": "BE"
+    }
+  ],
+  "languages": [
+    {
+      "series_id": 424242,
+      "code": "fr"
+    },
+    {
+      "series_id": 424242,
+      "code": "en"
+    }
+  ],
+  "creators": [
+    {
+      "series_id": 424242,
+      "person_id": 1,
+      "person_name": "Creator One"
+    }
+  ],
+  "cast": [
+    {
+      "series_id": 424242,
+      "person_id": 2,
+      "person_name": "Actor Two",
+      "order": 0,
+      "episode_count": 16
+    }
+  ],
+  "directors": [
+    {
+      "series_id": 424242,
+      "person_id": 3,
+      "person_name": "Crew Three",
+      "episode_count": 4
+    }
+  ]
+}
